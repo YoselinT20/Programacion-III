@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "ParcialApp"
+rootProject.name = "WebService"
